@@ -66,6 +66,8 @@ Some things to try:
    
 
    -- added lines
+
+   - asdf 
     
    - Open the `.devcontainer/devcontainer.json` file.
    - Modify the `"onAutoForward"` attribute in your `portsAttributes` from `"notify"` to `"openBrowser"`.
