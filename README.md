@@ -66,6 +66,8 @@ Some things to try:
    
 
 
+
+
    - Open the `.devcontainer/devcontainer.json` file.
    - Modify the `"onAutoForward"` attribute in your `portsAttributes` from `"notify"` to `"openBrowser"`.
    - Press <kbd>F1</kbd> and select the **Remote-Containers: Rebuild Container** or **Codespaces: Rebuild Container** command so the modifications are picked up.
